@@ -1,4 +1,4 @@
-[![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1800x500.jpg)](https://www.iamrudresh.com)
+[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://www.iamrudresh.com)
 <h1 align="center">Hi 👋, I'm Rudresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="img" width="350" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif">
